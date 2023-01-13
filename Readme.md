@@ -10,10 +10,10 @@ I use different technologies such as Python, Amazon Web Services (AWS), ApacheAi
 
 ## Technology Used
 - Python
+- Apache Airflow
 - Amazon Web Service (AWS)
 1. S3 (Simple Storage Service)
 2. EC2
-- Apache Airflow
 
 
 ## Dataset Used
