@@ -3,13 +3,14 @@
 ## Introduction 
 In this project, i execute a End-To-End Data Engineering Project with Web Scraping Twitter Data Pipeline using Airflow.
 
-I use different technologies such as Python, Amazon Web Services (AWS), ApacheAirflow.
+I use different technologies such as Python, Shell, Amazon Web Services (AWS), ApacheAirflow.
 
 ## Architecture 
 <img src="Architecture.jpg">
 
 ## Technology Used
 - Python
+- Shell
 - Apache Airflow
 - Amazon Web Service (AWS)
 1. S3 (Simple Storage Service)
